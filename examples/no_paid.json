@@ -1,0 +1,1 @@
+[{"id": 1, "customer": "A", "amount": 10, "status": "pending"}, {"id": 2, "customer": "B", "amount": 5, "status": "refunded"}]

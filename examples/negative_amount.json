@@ -1,0 +1,8 @@
+[
+  {"id": 101, "customer": "Иван", "amount": 1500, "status": "paid"},
+  {"id": 102, "customer": "Мария", "amount": -100, "status": "paid"},
+  {"id": 103, "customer": "Пётр", "amount": -0.5, "status": "paid"},
+  {"id": 104, "customer": "Анна", "amount": -0.0, "status": "paid"},
+  {"id": 105, "customer": "Олег", "amount": -2500, "status": "pending"},
+  {"id": 106, "customer": "Нина", "amount": -0.004, "status": "paid"}
+]

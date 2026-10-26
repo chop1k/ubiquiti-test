@@ -1,0 +1,4 @@
+[
+  {"id": 101, "customer": "Иван", "amount": 1e308, "status": "paid"},
+  {"id": 102, "customer": "Мария", "amount": 1e308, "status": "paid"}
+]

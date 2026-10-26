@@ -1,0 +1,14 @@
+{
+    "name": "chop1k/orders-processing",
+    "description": "CLI-обработка списка заказов из JSON",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "files": [
+            "src/orders.php"
+        ]
+    }
+}

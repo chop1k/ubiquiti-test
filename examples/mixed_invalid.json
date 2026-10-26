@@ -1,0 +1,17 @@
+[
+  {"id": 101, "customer": "Иван", "amount": 1500, "status": "paid"},
+  {"id": 102, "customer": "Мария", "status": "paid"},
+  {"id": 103, "customer": "Пётр", "amount": -100, "status": "paid"},
+  {"id": 104, "customer": "Анна", "amount": "1500", "status": "paid"},
+  {"id": 105, "customer": "Олег", "amount": null, "status": "paid"},
+  {"id": 106, "customer": "Ольга", "amount": 700, "status": "shipped"},
+  {"id": 107, "customer": "Павел", "amount": 700, "status": "Paid"},
+  {"id": 101, "customer": "Иван", "amount": 1500, "status": "paid"},
+  {"id": "108", "customer": "Нина", "amount": 10, "status": "paid"},
+  {"id": 99999999999999999999, "customer": "Big", "amount": 10, "status": "paid"},
+  {"id": 109, "customer": "", "amount": 10, "status": "paid"},
+  42,
+  [],
+  {"id": 110, "customer": "Вера", "amount": 2499.99, "status": "paid"},
+  {"id": 111, "customer": "Глеб", "amount": 2499.99, "status": "cancelled"}
+]
